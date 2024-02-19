@@ -1,0 +1,51 @@
+﻿Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
+выполненные задания переносим в Архив(внизу файла)
+==================================
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team    
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
+==================================
+Math(ресурсы которые помогут выполнять домашку по математике):
+1) https://mathter.pro/pesochnica/index.html
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+
+Python (получить сертификат):
+1)https://stepik.org/course/63085/promo
+2)Любишь играть? вот крутая штука https://codecombat.com/play/dungeon 
+3)https://karpov.courses/pythonzero
+4)https://www.kaggle.com/learn/intro-to-programming
+5)https://www.kaggle.com/learn/python 
+==================================
+Алгоритмы (зарегистрируйся и попробуй выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+
+попробуй понять код:
+
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
+
+==================================
+==================================
+Архив:
+
+Python:
+
+
+
+
+
